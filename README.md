@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Genesis De La Cruz Escobar 🙂
+😄 Pronouns: She/Her
 
-<!--
-**GenesisAnalyst/GenesisAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 I'm a data enthusiast. My journey began in tech sales, where I honed my research and analytical skills by identifying customer needs, analyzing market trends, and exceeding sales quotas through data-driven insights. While my experience spans various industries, from legal services to hospitality, my true passion lies in deciphering the stories hidden within data.
+This passion led me to pursue a Data Analyst Bootcamp Certification, which is currently in Progress. Beyond technical skills like EXCEL, SQL Server, MySQL, Python, Tableau, Microsoft Power BI, and experience with Sharepoint, I possess strong analytical thinking, communication, and problem-solving abilities honed through managing databases, generating reports, CRM dashboards, and building effective sales pipelines.
 
-Here are some ideas to get you started:
+🤓 I'm excited to continue this self-learning journey and ready to dive into the next learning adventure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on my portfolios. One of them will be for New York Citi Bikes.
+- 👩‍🏫 I'm taking a PL-300 Microsoft Power BI Data Analyst Certification Training Program at The University of Texas.
+- 🤔 I hope to find some mentorship and guidance in the Data Field. 
+- 📫 How to reach me: Email or message me on LinkedIn.
+         
+⚡ Fun fact: I embarked on this self-learning journey in Data Analytics with the Data Analytics Bootcamp with @AlexTheAnalyst. I'm forever grateful to Alex!
+
