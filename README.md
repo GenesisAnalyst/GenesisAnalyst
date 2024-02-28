@@ -11,5 +11,5 @@ This passion led me to pursue a Data Analyst Bootcamp Certification, which is cu
 - 🤔 I hope to find some mentorship and guidance in the Data Field. 
 - 📫 How to reach me: Email or message me on LinkedIn.
          
-⚡ Fun fact: I embarked on this self-learning journey in Data Analytics with the Data Analytics Bootcamp with @AlexTheAnalyst. I'm forever grateful to Alex!
+⚡ Fun fact: I embarked on this self-learning journey in Data Analytics by watching a series of videos on YouTube of Data Analytics Bootcamp with @AlexTheAnalyst. I'm forever grateful to Alex!
 
