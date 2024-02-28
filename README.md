@@ -4,7 +4,8 @@
 💬 I'm a data enthusiast. My journey began in tech sales, where I honed my research and analytical skills by identifying customer needs, analyzing market trends, and exceeding sales quotas through data-driven insights. While my experience spans various industries, from legal services to hospitality, my true passion lies in deciphering the stories hidden within data.
 This passion led me to pursue a Data Analyst Bootcamp Certification, which is currently in Progress. Beyond technical skills like EXCEL, SQL Server, MySQL, Python, Tableau, Microsoft Power BI, and experience with Sharepoint, I possess strong analytical thinking, communication, and problem-solving abilities honed through managing databases, generating reports, CRM dashboards, and building effective sales pipelines.
 
-🤓 I'm excited to continue this self-learning journey and ready to dive into the next learning adventure.
+🤓 I'm excited to continue this self-learning journey and ready to dive into the next learning adventure. If you are on a similar journey or want to connect, please feel free to reach out. I love to connect!
+
 
 - 🔭 I'm currently working on my portfolios. One of them will be for New York Citi Bikes.
 - 👩‍🏫 I'm taking a PL-300 Microsoft Power BI Data Analyst Certification Training Program at The University of Texas.
